@@ -14,3 +14,7 @@ My transition into QA Engineering was a deliberate decision: I have always enjoy
 * **Status:** 🟢 **Open to Work / Actively Seeking Opportunities**
 * **Roles of Interest:** QA Engineer / QA Automation Engineer
 * **Work Preference:** Remote / Hybrid
+
+## 📫 Connect with Me
+* **Telegram:** https://t.me/Sultan_91
+* **Email:** rakhmetbekovsultan@gmail.com
